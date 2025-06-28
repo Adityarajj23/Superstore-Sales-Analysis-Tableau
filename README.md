@@ -12,16 +12,11 @@ Interactive sales analysis project using Tableau's advanced features
 ## 🎥 Project Walkthrough
 [Watch the Demo Video](https://drive.google.com/file/d/1EXw5-Ota2ehw-ChGvLNApIW1gvOhXQbZ/view?usp=sharing)
 
-## 📷 Screenshots
-## 📊 Dashboard Preview
+## 📂 Project Screenshots
 
-![Dashboard 1](images/dashboards/dashboard1.png)
-
-## 📖 Story Summary
-
-![Story Screenshot](images/story/1.png)
-
-
+- [Dashboards Folder](https://github.com/YourUsername/Superstore-Sales-Analysis-Tableau/tree/main/images/dashboards)
+- [Story Screenshots](https://github.com/YourUsername/Superstore-Sales-Analysis-Tableau/tree/main/images/story)
+- [Worksheet Screenshots](Superstore-Sales-Analysis-Tableau/images/worksheet)
 
 ## 📂 Files Included
 - Tableau `.twbx` project file
