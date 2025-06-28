@@ -14,8 +14,8 @@ Interactive sales analysis project using Tableau's advanced features
 
 ## 📂 Project Screenshots
 
-- [Dashboards Folder](https://github.com/Adityarajj23/Superstore-Sales-Analysis-Tableau/tree/main/images/dashboards)
-- [Story Screenshots](https://github.com/Adityarajj23/Superstore-Sales-Analysis-Tableau/tree/main/images/Story)
+- [Dashboards Folder](https://github.com/Adityarajj23/Superstore-Sales-Analysis-Tableau/tree/main/Images/dashboards)
+- [Story Screenshots](https://github.com/Adityarajj23/Superstore-Sales-Analysis-Tableau/tree/main/Images/Story)
 - [Worksheet Screenshots](https://github.com/Adityarajj23/Superstore-Sales-Analysis-Tableau/tree/main/Images/Worksheets)
 
 ## 📂 Files Included
