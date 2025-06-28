@@ -15,7 +15,9 @@ Interactive sales analysis project using Tableau's advanced features
 ## 📷 Screenshots
 | Dashboard | Story View |
 |-----------|------------|
-| ![Dashboard](images/dashboard.png) | ![Story](images/story.png) |
+| ![Dashboard](Superstore-Sales-Analysis-Tableau/Images
+/dashboards/) | ![Story](Superstore-Sales-Analysis-Tableau/Images
+/Story/) |
 
 
 ## 📂 Files Included
